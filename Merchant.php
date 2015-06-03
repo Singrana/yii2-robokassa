@@ -24,7 +24,7 @@ class Merchant extends Object
         }
         $sSignatureValue = md5($signature);
 
-        $url .= '?' . http_build_query([
+        $url .=  http_build_query([
             'MrchLogin' => $this->sMerchantLogin,
             'OutSum' => $nOutSum,
             'InvId' => $nInvId,
