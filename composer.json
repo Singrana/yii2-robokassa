@@ -1,5 +1,5 @@
 {
-    "name": "singraba/yii2-robokassa",
+    "name": "singrana/yii2-robokassa",
     "description": "Robokassa payment extension.",
     "keywords": ["yii2", "robokassa"],
     "type": "yii2-extension",
